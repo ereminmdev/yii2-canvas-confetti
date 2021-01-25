@@ -1,0 +1,24 @@
+{
+  "name": "ereminmdev/yii2-canvas-confetti",
+  "description": "Canvas-confetti assert for Yii framework.",
+  "keywords": ["yii2","canvas-confetti"],
+  "homepage": "https://bitbucket.org/ereminmdev/yii2-jquery-migrate",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Eremin",
+      "email": "ereminmdev@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "npm-asset/canvas-confetti": "^1.3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "ereminmdev\\yii2\\canvas_confetti\\": ""
+    }
+  }
+}
