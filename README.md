@@ -4,7 +4,7 @@ Canvas-confetti assert for Yii framework.
 
 ## Install
 
-``composer require ereminmdev/yii2-canvas-confetti``
+``composer require --prefer-dist ereminmdev/yii2-canvas-confetti``
 
 ## Documentation
 
